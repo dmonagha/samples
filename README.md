@@ -2,10 +2,6 @@
 
 Some various code samples I've put together in response to professional requests
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dmonagha/samples/tags). 
-
 ## Authors
 
 * **Derek Monaghan** - *Initial work* - [dmonagha](https://github.com/dmonagha)
