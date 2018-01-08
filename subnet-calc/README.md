@@ -16,7 +16,7 @@ ipaddr.py -i inputfile -o outputfile
 
 * **Derek Monaghan** - *Initial work* - [dmonagha](https://github.com/dmonagha)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/dmonagha/samples/subnet-calc/contributors) who participated in this project.
 
 ## License
 
